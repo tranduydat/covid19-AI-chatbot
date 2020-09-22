@@ -1,0 +1,23 @@
+intents:
+  - greet
+  - bye
+  - affirm
+  - deny
+  - mood_greet
+  - mood_unhappy
+  - bot_challenge
+  - None
+  - smalltalk_human
+  - ask_death
+  - ask_confirm
+  - ask_resolve
+  - ask_all
+
+
+responses:
+  utter_noworries:
+    - text: No worries!
+  utter_greet:
+    - text: Hi
+  utter_bye:
+    - text: Bye!

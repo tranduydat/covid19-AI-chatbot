@@ -1,23 +1,35 @@
+session_config:
+  session_expiration_time: 0
+  carry_over_slots_to_new_session: true
 intents:
-  - greet
-  - bye
-  - affirm
-  - deny
-  - mood_greet
-  - mood_unhappy
-  - bot_challenge
-  - None
-  - smalltalk_human
-  - ask_death
-  - ask_confirm
-  - ask_resolve
-  - ask_all
-
-
+- greet
+- bye
+- affirm
+- deny
+- mood_greet
+- mood_unhappy
+- bot_challenge
+- None
+- smalltalk_human
+- ask_death
+- ask_confirm
+- ask_resolve
+- ask_all
+- mood_great
 responses:
-  utter_noworries:
-    - text: No worries!
   utter_greet:
-    - text: Hi
+  - text: Xin chào bạn!, mình là Trợ lý ảo hỗ trợ cập nhật thông tin, số liệu về đại
+      dịch Covid-19. Mình có thể giúp gì được bạn nhỉ?
   utter_bye:
-    - text: Bye!
+  - text: Bye bạn nha! Chúc bạn có một ngày làm việc may mắn và hiệu quả :)
+  utter_cheer:
+  - text: :D
+  utter_sympathize:
+  - text: Rồi mọi thứ cũng sẽ ổn thôi
+  utter_challenge:
+  - text: Mình là trợ lý ảo Bé Đường, là một dự án tại phòng nghiên cứu Đại học FPT
+      Hà Nội phát triển để giúp giải đáp các thắc mắc về dịch bệnh Covid-19.
+  utter_None:
+  - text: e hèm
+actions:
+- action_ask_death_cases_globally

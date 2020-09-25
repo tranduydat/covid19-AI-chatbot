@@ -1,3 +1,7 @@
+#!/usr/bin/env bash
+
+# cronitor ping LM9GRq --run
+
 # Pull lastest data from CSSEGI repo
 cd /home/trdat/Workspaces/covid19-rasa-chatbot/realtime_data/COVID_19_CSSEGISandData
 git pull origin master
@@ -11,3 +15,5 @@ touch /home/trdat/Workspaces/covid19-rasa-chatbot/database.db
 
 # Pull data and export these into sqlite3 database.db
 python /home/trdat/Workspaces/covid19-rasa-chatbot/utils/PullData.py
+
+# cronitor ping LM9GRq --complete

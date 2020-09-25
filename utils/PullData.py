@@ -6,7 +6,7 @@ PATH_RECOVERED_GLOBAL_TS = r'/home/trdat/Workspaces/covid19-rasa-chatbot/realtim
 TABLE_CONFIRMED_GLOBAL_TS = 'Confirmed_Global'
 TABLE_DEATH_GLOBAL_TS = 'Death_Global'
 TABLE_RECOVERED_GLOBAL_TS = 'Recovered_Global'
-PATH_TO_DB = 'sqlite:///../database.db'
+PATH_TO_DB = '../database.db'
 
 # Save csv to sql
 process_confirmed_data = PreprocessingData(PATH_TO_DB, PATH_CONFIRMED_GLOBAL_TS, TABLE_CONFIRMED_GLOBAL_TS)

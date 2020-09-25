@@ -5,22 +5,22 @@ class PreprocessingData:
     """ Preprocessing and saving data into database """
 
     def __init__(self, path_to_db, path_csv, table_name):
-        self.path_to_db = path_to_db
+        self.path_to_db = "sqlite:///" + path_to_db
         self.path_csv = path_csv
         self.table_name = table_name
 
     def normalize_data(self):
-        data = pd.read_csv (self.path)
+        data = pd.read_csv(self.path_csv)
         columns = data.columns.tolist()
         cols_to_use = columns[1:len(columns)]
         cols_to_be_del = ['Lat', 'Long']
-        df = pd.read_csv(self.path, usecols=cols_to_use)
+        df = pd.read_csv(self.path_csv, usecols=cols_to_use)
         df = df.drop(columns=cols_to_be_del)
         return df
 
     # For retrieve lastest column in sql
     def get_lastest_date(self):
-        df = normalize_data(path_csv)
+        df = self.normalize_data()
         columns = df.columns.tolist()
         return columns[-1]
 

@@ -47,3 +47,5 @@ class ActionAskDeath(Action):
         dispatcher.utter_message(text=message)
 
         return []
+
+

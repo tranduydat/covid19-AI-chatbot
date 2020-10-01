@@ -25,3 +25,15 @@
 # Ask death cases globally
 * ask_death
   - action_ask_death_cases_globally
+
+# Ask confirmed cases globally
+* ask_confirm
+  - action_ask_confirmed_cases_globally
+
+# Ask recovered cases globally
+* ask_resolve
+  - action_ask_recovered_cases_globally
+
+# Ask all
+* ask_all
+  - action_ask_confirmed_cases_globally

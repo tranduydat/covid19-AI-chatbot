@@ -17,6 +17,8 @@ intents:
 - ask_all
 - mood_great
 - ask_confirmed
+- ask_vietnam_death
+- ask_vietnam_confirmed
 responses:
   utter_greet:
   - text: Xin chào bạn!, mình là Trợ lý ảo hỗ trợ cập nhật thông tin, số liệu về đại
@@ -32,7 +34,10 @@ responses:
       Hà Nội phát triển để giúp giải đáp các thắc mắc về dịch bệnh Covid-19.
   utter_None:
   - text: e hèm
+  utter_sadface:
+  - text: 😢
 actions:
 - action_ask_death_cases_globally
 - action_ask_confirmed_cases_globally
 - action_ask_recovered_cases_globally
+- utter_sadface

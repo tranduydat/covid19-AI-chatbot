@@ -22,18 +22,37 @@
 * None
   - utter_None
 
-# Ask death cases globally
+## Ask death cases globally
 * ask_death
   - action_ask_death_cases_globally
 
-# Ask confirmed cases globally
+## Ask confirmed cases globally
 * ask_confirm
   - action_ask_confirmed_cases_globally
 
-# Ask recovered cases globally
+## Ask recovered cases globally
 * ask_resolve
   - action_ask_recovered_cases_globally
 
-# Ask all
+## Ask all
 * ask_all
   - action_ask_confirmed_cases_globally
+
+## New Story
+
+* greet
+    - utter_greet
+* ask_death
+    - action_ask_death_cases_globally
+* ask_resolve
+    - action_ask_recovered_cases_globally
+* ask_confirm
+    - action_ask_confirmed_cases_globally
+
+## New Story
+
+* mood_unhappy
+    - utter_sympathize
+* ask_death
+    - action_ask_death_cases_globally
+    - utter_sadface

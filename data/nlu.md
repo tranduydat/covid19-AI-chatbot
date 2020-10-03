@@ -38,8 +38,6 @@
 - không chơi
 - nghỉ
 - cút
-
-# intent:mood_great
 - perfect
 - hoàn hảo
 - tốt lắm
@@ -115,6 +113,8 @@
 - có nhiều người thiệt mạng chưa
 - hiện có bao nhiêu người tèo rồi
 - có bao nhiêu người bệnh bị chết
+- die bao người rồi
+- tử vong bao nhiêu người r?
 
 ## intent:ask_confirm
 - Việt Nam hôm nay có bao nhiêu người mắc bệnh rồi
@@ -139,7 +139,7 @@
 - có bao nhiêu người nhiễm bệnh rồi
 - số người nhiễm bệnh là bao nhiêu nhỉ
 - info các ca đã khỏi bệnh
-- thông tin những người hết bệnh Covid-19
+- thông tin những người hết bệnh corona
 - bao người khỏi bệnh rồi
 - có bao nhiêu người khỏi bệnh
 - con số người khỏi bệnh là bao nhiêu
@@ -148,18 +148,36 @@
 - số trường hợp khỏi bệnh là bao nhiêu
 - nhiều người được chữa khỏi chưa
 - có bao nhiêu người khỏi corona rồi
+- hồi phục bao nhiêu người rồi?
 
 ## intent:ask_all
-- tình hình dịch bệnh thế nào  
-- dịch bệnh tiến triển thế nào  
-- xem thống kê dịch bệnh 
+- tình hình dịch bệnh thế nào
+- dịch bệnh tiến triển thế nào
+- xem thống kê dịch bệnh
 - xem chi tiết dịch bệnh
-- dịch bệnh thế nào rồi 
-- dịch bệnh ra sao rồi 
+- dịch bệnh thế nào rồi
+- dịch bệnh ra sao rồi
 - tình hình dịch bệnh trên toàn thế giới như nào rồi
 - info dịch bệnh
 - cập nhật dịch bệnh
 - Corona thế nào rồi
+
+## intent:ask_vietnam_death
+- Việt Nam có bao nhiêu người chết vì corona rồi
+- Viet Nam co bao nhieu nguoi chet vi corona roi
+- tình hình sống chết ở Việt Nam thế nào
+- có bao nhiêu người chết vì corona ở Viêt Nam rồi
+- chết bao người ở Việt Nam rồi
+- Việt Nam chết bao người vì corona rồi
+- corona đã giết chết bao người ở Việt Nam rồi
+
+## intent:ask_vietnam_confirmed
+- Việt Nam có bao nhiêu người mắc corona rồi
+- có bao nhiêu người dương tính corona ở Việt Nam rồi
+- tình hình ca mắc bệnh corona ở Việt Nam
+- bao nhiêu ngươi nhiễm bệnh ở Việt Nam rồi
+- nước ta hiện nay có bao nhiêu người mắc bệnh corona rồi
+- con số người nhiễm corona ở Việt Nam là bao nhiêu
 
 ## synonym:corona
 - coronavirus
@@ -174,3 +192,16 @@
 - bệnh
 - dịch bệnh
 - cơn khủng hoảng
+
+## synonym:Việt Nam
+- viet nam
+- vn
+- vietnamese
+- vjet nam
+- nước ta
+- nước mình
+- quốc gia mình
+- đất nước ta
+- quê hương ta
+- Viêt Nam
+- Vietnamm

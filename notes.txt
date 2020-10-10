@@ -1,0 +1,61 @@
+bệnh nhân
+trợ lý ảo
+Việt Nam
+khỏi
+Covid-19
+chết
+bạn
+mắc
+tôi
+
+
+
+
+https://2e5467e463aa.ngrok.io/login?username=me&password=QCZbg5y89o9W
+
+
+
+[bạn]{"entity": "user_vocative", "value": "bot"}
+[vn]{"entity": "VietNam", "value": "vn"}
+
+
+
+[bản thân]{"entity": "relative_vocative", "value": "relative"}
+[tôi]{"entity": "myself_vocative", "value": "myself"}
+[Covid-19]{"entity": "covid_synonym", "value": "Covid-19"}
+[bệnh nhân]{"entity": "patient_synonym", "value": "patient"}
+[chết]{"entity": "die_synonym", "value": "die"}
+[khỏi]{"entity": "resolved_synonym", "value": "resolved"}
+[mắc]{"entity": "getvirus_synonym", "value": "getvirus"}
+[Việt Nam]{"entity": "vietnam_synonym", "value": "vietnam"}
+
+Covid-19
+vietnam
+bot
+patient
+die
+resolved
+getvirus
+virtualassistant
+myself
+relative
+
+
+
+EntitySynonymMapper
+
+/home/trdat/.virtualenv/rasa/lib/python3.7/site-packages/rasa/utils/common.py:363: UserWarning: Found inconsistent entity synonyms while reading markdown, overwriting em->patient with em->virtualassistant during merge.
+
+UserWarning: Please configure the number of 'epochs' in your configuration file. We will change the default value of 'epochs' in the future to 1.
+
+
+bệnh nhânbệnh nhân
+cảm ơn bạnbạn nha
+
+https://f9b1601e2df9.ngrok.io/login?username=me&password=IQiXswDrWf9E
+
+
+
+https://f9b1601e2df9.ngrok.io/login?username=me&password=i9Vj0hZYaM6G
+
+

@@ -1,1 +1,0 @@
-    cur.execute("SELECT * FROM tasks WHERE priority=?", (priority,))

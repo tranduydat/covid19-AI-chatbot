@@ -1,0 +1,484 @@
+## intent:greet
+- hey [bạn](em)
+- xin chào [bạn](em)
+- chào [bạn](em)
+- chào
+- hello [bạn](em)
+- [bạn](em)
+- hú [bạn](em)
+- nè [bạn](em)
+- alo [bạn](em)
+- ơ lô [bạn](em)
+- [bạn](em) gì ơi
+- giúp [mình](user_voca) với
+- nói chuyện đi
+- [bạn](em) ơi
+- nè [bạn](em)
+- ns chuyện đi
+
+## intent:call_va
+
+## intent:bye
+- bye [bạn](em)
+- bai [bạn](em)
+- hẹn gặp [bạn](em) sau
+- thôi tạm biệt [bạn](em)
+- goodbye
+
+## intent:thanks
+- cảm ơn [bạn](em) nha
+- thank [bạn](em)
+- thanks
+- love you
+- love [bạn](em)
+
+## intent:affirm
+- yes
+- yep
+- đúng
+- chuẩn
+- ok
+- okay
+- làm đi
+- tiến hành
+- confirm
+- sure
+- hoàn hảo
+- tốt lắm
+- hay quá
+- đáng yêu quá
+- tôi cảm thấy thật tuyệt
+- tôi cảm thấy an tâm hơn rồi
+
+## intent:deny
+- không
+- đéo
+- no
+- bỏ ra
+- không chơi
+- nghỉ
+- cút
+
+## intent:mood_unhappy
+- chán
+- sad
+- so sad
+- buồn
+- chán vl
+- tồi tệ
+- nhục
+- đểu quá
+- đáng buồn
+
+## intent:bot_challenge
+- [tôi](user_voca) đang nói chuyện với bot à
+- có phải [tôi](user_voca) đang nói chuyện với robot không
+- bạn là bot à
+- bạn có phải là người không
+- bạn có phải là robot không
+- bạn là bot do ai tạo ra
+- bạn đến từ đâu
+- [tôi](user_voca) đang nói chuyện với bot đúng không
+
+## intent:None
+- yêu không
+- yêu ko
+- cưới nhé
+- lái máy bay
+- ăn bánh trưng
+- rất nhiều tiền
+- xin số điện thoại
+- mặc gì thế
+- cưới nhau đi
+- yêu nhau đi
+- ăn bún đậu
+- làm gì thế
+- ăn cơm chưa
+- ăn rau rền không
+- nghe chuyện kiếm hiệp không
+
+## intent:smalltalk_human
+- [tôi])(user_voca) đang nói chuyện với [trợ lý ảo](virtualAssistance)
+- [bạn](em) có phải là [trợ lý ảo](virtualAssistance)
+- [bạn](em) là [trợ lý ảo](virtualAssistance)
+- [bạn](em) có phải là [trợ lý ảo](virtualAssistance) 
+- [tôi])(user_voca) không muốn nói chuyện với [trợ lý ảo](virtualAssistance)
+- [tôi])(user_voca) không muốn nói chuyện
+- [tôi])(user_voca) đang nói chuyện với ai thế
+- [bạn](em) là thật à
+- [trợ lý ảo](virtualAssistance)
+
+## intent:ask_death
+- [chết](die) vì [covid-19](corona)
+- bao [bệnh nhân](patient) [chết](die)
+- [covid-19](corona) khiến bao nhiêu [bệnh nhân](patient) [chết](die)
+- hiện tại có bao nhiêu [bệnh nhân](patient) [chết](die) vì [covid-19](corona)
+- có bao nhiêu [bệnh nhân](patient) [chết](die)
+- có nhiều [bệnh nhân](patient) [chết](die) chưa
+- nay bao [bệnh nhân](patient) [chết](die) vì [covid-19](corona) 
+- [bệnh nhân](patient) [chết](die) vì [covid-19](corona)
+- hiện có bao nhiêu [bệnh nhân](patient) [chết](die) 
+- có bao nhiêu [bệnh nhân](patient) bị [chết](die)
+- [chết](die) bao [bệnh nhân](patient) 
+- cập nhật [bệnh nhân](patient) [chết](die) trên toàn cầu
+- cập nhật [bệnh nhân](patient) [chết](die) vì [covid-19](corona)
+- thông tin [bệnh nhân](patient) [chết](die) vì [covid-19](corona)
+- [bệnh nhân](patient) [chết](die) vì [covid-19](corona) là bao nhiêu
+- hôm nay có bao nhiêu [bệnh nhân](patient) [chết](die) vì [covid-19](corona)
+- info [bệnh nhân](patient) [chết](die) vì [covid-19](corora)
+- update [bệnh nhân](patient) [chết](die) vì [covid-19](corora)
+
+## intent:ask_confirm
+- [bệnh nhân](patient) [mắc](getVirus) [covid-19](corona)
+- hôm nay có bao nhiêu [bệnh nhân](patient) [mắc](getVirus) [covid-19](corona) 
+- cập nhật tình hình [bệnh nhân](patient) [mắc](getVirus) [covid-19](corona)
+- tình hình các [bệnh nhân](patient) [mắc](getVirus)
+- info các [bệnh nhân](patient) [mắc](getVirus) [covid-19](corona)
+- thông tin các [bệnh nhân](patient) [mắc](getVirus) [covid-19](corona)
+- bao [bệnh nhân](patient) [mắc](getVirus) [covid-19](corona) 
+- có bao nhiêu [bệnh nhân](patient) [mắc](getVirus) [covid-19](corona)
+- con [bệnh nhân](patient) [mắc](getVirus) [covid-19](corona) là bao nhiêu
+- hiện có bao nhiêu [bệnh nhân](patient) [mắc](getVirus) [covid-19](corona) 
+- có nhiều [bệnh nhân](patient) [mắc](getVirus) [covid-19](corona) chưa
+- bao [bệnh nhân](patient) [mắc](getVirus) [covid-19](corona) 
+- có bao nhiêu [bệnh nhân](patient) [mắc](getVirus) [covid-19](corona)
+- con [bệnh nhân](patient) [mắc](getVirus) [covid-19](corona) là bao nhiêu
+- [bệnh nhân](patient) xác nhận [mắc](getVirus) mới là bao nhiêu
+- [bệnh nhân](patient) bị [mắc](getVirus) [covid-19](corona) là bao nhiêu
+- hiện có bao nhiêu [bệnh nhân](patient) [mắc](getVirus) [covid-19](corona) 
+- có nhiều [bệnh nhân](patient) [mắc](getVirus) [covid-19](corona) chưa
+
+## intent:ask_resolve
+- thông tin các [bệnh nhân](patient) đã [khỏi](beResolved) [covid-19](corona)
+- cập nhật tình hình [bệnh nhân](patient) [khỏi](beResolved) [covid-19](corona)
+- có bao nhiêu [bệnh nhân](patient) [khỏi](beResolved) [covid-19](corona) 
+- [bệnh nhân](patient) [khỏi](beResolved) [covid-19](corona)
+- info các [bệnh nhân](patient) đã [khỏi](beResolved) [covid-19](corona)
+- thông tin những [bệnh nhân](patient) [khỏi](beResolved) [covid-19](corona) corona
+- bao [bệnh nhân](patient) [khỏi](beResolved) [covid-19](corona) 
+- có bao nhiêu [bệnh nhân](patient) [khỏi](beResolved) [covid-19](corona)
+- con [bệnh nhân](patient) [khỏi](beResolved) [covid-19](corona)
+- hiện có bao nhiêu [bệnh nhân](patient) [khỏi](beResolved) [covid-19](corona) 
+- có nhiều [bệnh nhân](patient) [khỏi](beResolved) [covid-19](corona)
+- [bệnh nhân](patient) [khỏi](beResolved) [covid-19](corona)
+- nhiều [bệnh nhân](patient) [khỏi](beResolved) chưa
+- có bao nhiêu [bệnh nhân](patient) [khỏi](beResolved) [covid-19](corona) 
+- [khỏi](beResolved) bao nhiêu [bệnh nhân](patient) 
+- bao nhiêu [bệnh nhân](patient) [khỏi](beResolved) 
+- bao nhiêu [bệnh nhân](patient)[patient](patient) [khỏi](beResolved) [covid-19](corona)
+- bao nhiêu [bệnh nhân](patient) [khỏi](beResolved) [covid-19](corona)
+- [bệnh nhân](patient) [khỏi](beResolved) sau [covid-19](corona)
+- bao nhiêu [bệnh nhân](patient) [khỏi](beResolved) 
+- bao nhiêu [bệnh nhân](patient) [khỏi](beResolved) [covid-19](corona) 
+
+## intent:ask_all
+- thông tin chung về [covid-19](corona)
+- tình hình [covid-19](corona)
+- dịch [covid-19](corona) tiến triển
+- xem thống kê [covid-19](corona)
+- xem chi tiết [covid-19](corona)
+- [covid-19](corona) có gì
+- [covid-19](corona) ra sao 
+- tình hình [covid-19](corona)
+- info [covid-19](corona)
+- cập nhật [covid-19](corona)
+- [covid-19](corona) thế nào 
+- hình như tình hình [covid-19](corona) đang mất kiếm soát
+- có vẻ như [covid-19](corona) đang tăng [bệnh nhân](patient)
+- [tôi](user_voca) muốn biết thêm về [covid-19](corona)
+- thống kê [covid-19](corona)
+- số liệu [covid-19](corona)
+- update thông tin [covid-19](corona)
+- update [covid-19](corona)
+
+## intent:ask_death_and_ask_confirm
+- [chết](die) [nhiễm](getVirus) [covid-19](corona)
+- [nhiễm](getVirus) và [chết](die) [covid-19](corona)
+- [chết](die) [nhiễm](getVirus)
+- tình hình [bệnh nhân](patient) [chết](die) và [nhiễm](getVirus) [covid-19](corona)
+- bao [bệnh nhân](patient) [nhiễm](getVirus) và [chết](die) vì [covid-19](corona)
+- thông tin [bệnh nhân](patient) [nhiễm](getVirus) và [chết](die) vì [covid-19](corona)
+- update [bệnh nhân](patient) [nhiễm](getVirus) và [chết](die) vì [covid-19](corona)
+- [bệnh nhân](patient) [nhiễm](getVirus) và [chết](die) vì [covid-19](corona)
+- [bệnh nhân](patient) [chết](die) và [nhiễm](getVirus) [covid-19](corona)
+- tình hình [bệnh nhân](patient) bị [chết](die) và [nhiễm](getVirus) [covid-19](corona)
+- bao [bệnh nhân](patient) [nhiễm](getVirus) và [chết](die) vì [covid-19](corona)
+- thông tin [bệnh nhân](patient) [chết](die) và [nhiễm](getVirus) [covid-19](corona)
+- tình hình [covid-19](corona) [chết](die) và [nhiễm](getVirus) thêm bao [bệnh nhân](patient)
+- tình hình [chết](die) và [nhiễm](getVirus)
+- [nhiễm](getVirus) và [chết](die) vì [covid-19](corona)
+
+## intent:ask_death_and_ask_resolve
+- [chết](die) và [khỏi](beResolved)
+- [khỏi](beResolved) [chết](die) do [covid-19](corona)
+- tình hình [bệnh nhân](patient) [chết](die) và [khỏi](beResolved) [covid-19](corona)
+- bao [bệnh nhân](patient) [chết](die) và [khỏi](beResolved) [covid-19](corona)
+- thông tin [bệnh nhân](patient) [chết](die) và [khỏi](beResolved) [covid-19](corona)
+- update [bệnh nhân](patient) [chết](die) và [khỏi](beResolved) [covid-19](corona)
+- [bệnh nhân](patient) [chết](die) và [khỏi](beResolved) [covid-19](corona)
+- [bệnh nhân](patient) [khỏi](beResolved) và [chết](die) [covid-19](corona)
+- tình hình [bệnh nhân](patient) [khỏi](beResolved) và [chết](die) [covid-19](corona)
+- bao [bệnh nhân](patient) [chết](die) và [khỏi](beResolved) [covid-19](corona)
+- thông tin [bệnh nhân](patient) [khỏi](beResolved) và [chết](die) [covid-19](corona)
+- tình hình [covid-19](corona) [khỏi](beResolved) và [chết](die) thêm bao [bệnh nhân](patient)
+- tình hình [khỏi](beResolved) và [chết](die) ra sao
+- [khỏi](beResolved) và [chết](die) [covid-19](corona)
+- [chết](die) và [khỏi](beResolved) vì [covid-19](corona)
+
+## intent:ask_resolve_and_ask_confirm
+- cập nhật [bệnh nhân](patient) [khỏi](beResolved) [mắc](getVirus)
+- [khỏi](beResolved) [mắc](getVirus)
+- tình hình [bệnh nhân](patient) [khỏi](beResolved) và [mắc](getVirus) [covid-19](corona)
+- bao [bệnh nhân](patient) [khỏi](beResolved) và [mắc](getVirus) [covid-19](corona)
+- thông tin [bệnh nhân](patient) [khỏi](beResolved) và [mắc](getVirus) [covid-19](corona)
+- update [bệnh nhân](patient) [khỏi](beResolved) và [mắc](getVirus) [covid-19](corona)
+- [bệnh nhân](patient) [khỏi](beResolved) và [mắc](getVirus) [covid-19](corona)
+- tình hình [bệnh nhân](patient) [mắc](getVirus) và [khỏi](beResolved) [covid-19](corona)
+- bao [bệnh nhân](patient) [mắc](getVirus) và [khỏi](beResolved) [covid-19](corona)
+- thông tin [bệnh nhân](patient) [mắc](getVirus) và [khỏi](beResolved) [covid-19](corona)
+- update [bệnh nhân](patient) [mắc](getVirus) và [khỏi](beResolved) [covid-19](corona)
+- [bệnh nhân](patient) [mắc](getVirus) và [khỏi](beResolved) [covid-19](corona)
+- [khỏi](beResolved) và [mắc](getVirus)
+- [mắc](getVirus) và [khỏi](beResolved)
+
+## intent:ask_death_in_vietnam
+- [chết](die) [covid-19](corona) ở [Việt Nam](Vietnam)
+- nay có [bệnh nhân](patient) [chết](die) [covid-19](corona) ở [Việt Nam](Vietnam)
+- [bệnh nhân](patient) [chết](die) [covid-19](corona) [Việt Nam](Vietnam)
+- [chết](die) vì [covid-19](corona) tại [Việt Nam](Vietnam)
+- số liệu [bệnh nhân](patient) [chết](die) vì [covid-19](corona) tại [Việt Nam](Vietnam)
+- tình hình [bệnh nhân](patient) [chết](die) vì [covid-19](corona) ở [Việt Nam](Vietnam)
+- [bệnh nhân](patient) [chết](die) do [covid-19](corona) tại [Việt Nam](Vietnam)
+- [Việt Nam](Vietnam) có bao nhiêu [bệnh nhân](patient) [chết](die) vì [covid-19](corona)
+- số [bệnh nhân](patient) [chết](die) bởi [covid-19](corona) ở [Việt Nam](Vietnam)
+- [covid-19](corona) khiến bao nhiêu [bệnh nhân](patient) người [Việt Nam](Vietnam) [chết](die)
+- hiện tại có số lượng [bệnh nhân](patient) là người [Việt Nam](Vietnam) [chết](die) vì [covid-19](corona)
+- bao nhiêu [bệnh nhân](patient) [chết](die) ở [Việt Nam](Vietnam)
+- có nhiều [bệnh nhân](patient) ở [Việt Nam](Vietnam) [chết](die) vì [covid-19](corona)
+- bao [bệnh nhân](patient) [chết](die) ở [Việt Nam](Vietnam)
+- có nhiều [bệnh nhân](patient) [covid-19](corona) [chết](die) ở [Việt Nam](Vietnam)
+- cập nhật [bệnh nhân](patient) [chết](die) do [covid-19](corona) tại [Việt Nam](Vietnam) 
+- [bệnh nhân](patient) [chết](die) ở [Việt Nam](Vietnam)
+- hiện có bao nhiêu [bệnh nhân](patient) [chết](die) trong [Việt Nam](Vietnam) bởi [covid-19](corona)
+- có bao nhiêu [bệnh nhân](patient) bệnh bị [chết](die) ở [Việt Nam](Vietnam)
+- số [bệnh nhân](patient) [Việt Nam](Vietnam) [chết](die) vì [covid-19](corona) 
+- cập nhật [bệnh nhân](patient) [chết](die) ở [Việt Nam](Vietnam)
+- thông tin [bệnh nhân](patient) [chết](die) vì [covid-19](corona) ở [Việt Nam](Vietnam)
+- [covid-19](corona) [chết](die) vì [covid-19](corona) ở [Việt Nam](Vietnam)
+
+## intent:ask_confirmed_in_vietnam
+- [mắc](getVirus) [covid-19](corona) ở [Việt Nam](Vietnam)
+- nay có [bệnh nhân](patient) [mắc](getVirus) [covid-19](corona) ở [Việt Nam](Vietnam)
+- [bệnh nhân](patient) [mắc](getVirus) [covid-19](corona) [Việt Nam](Vietnam)
+- [bệnh nhân](patient) [mắc](getVirus) [covid-19](corona) ở [Việt Nam](Vietnam)
+- hôm nay có [bệnh nhân](patient) [mắc](getVirus) [covid-19](corona) ở [Việt Nam](Vietnam)
+- tình hình [bệnh nhân](patient) [mắc](getVirus) [covid-19](corona) [Việt Nam](Vietnam)
+- cập nhật [bệnh nhân](patient) [mắc](getVirus) mới ở [Việt Nam](Vietnam)
+- số liệu [bệnh nhân](patient) [mắc](getVirus) [covid-19](corona) ở [Việt Nam](Vietnam) thế nào 
+- info các [bệnh nhân](patient) [covid-19](corona) tại [Việt Nam](Vietnam) trong ngày hôm nay
+- thông tin các [bệnh nhân](patient) [mắc](getVirus) ở [Việt Nam](Vietnam)
+- bao [bệnh nhân](patient) [mắc](getVirus) ở [Việt Nam](Vietnam) 
+- có bao nhiêu [bệnh nhân](patient) [mắc](getVirus) trong [Việt Nam](Vietnam)
+- [bệnh nhân](patient) [mắc](getVirus) ở [Việt Nam](Vietnam)
+- hiện có bao nhiêu [bệnh nhân](patient) [Việt Nam](Vietnam) [mắc](getVirus) [covid-19](corona)
+- [bệnh nhân](patient) là người [Việt Nam](Vietnam) [mắc](getVirus) [covid-19](corona)
+- ở [Việt Nam](Vietnam) có nhiều [bệnh nhân](patient) [mắc](getVirus) chưa
+- update ở [Việt Nam](Vietnam), số [bệnh nhân](patient) [mắc](getVirus) [covid-19](corona)
+- bao [bệnh nhân](patient) [mắc](getVirus) [covid-19](corona) ở [Việt Nam](Vietnam)
+- [bệnh nhân](patient) [Việt Nam](Vietnam) [mắc](getVirus) [covid-19](corona) mới nhất
+- [Việt Nam](Vietnam) có con số [bệnh nhân](patient) [mắc](getVirus) [covid-19](corona) là
+- [bệnh nhân](patient) [Việt Nam](Vietnam) xác nhận [mắc](getVirus) mới là bao nhiêu
+- [Việt Nam](Vietnam) đang có số [bệnh nhân](patient) [mắc](getVirus) [covid-19](corona)
+- hiện có bao nhiêu [bệnh nhân](patient) [mắc](getVirus) [covid-19](corona) tại [Việt Nam](Vietnam)
+- [Việt Nam](Vietnam) có nhiều [bệnh nhân](patient) [mắc](getVirus) [covid-19](corona)
+
+## intent:ask_resolve_vietnam
+- [khỏi](beResolved) [covid-19](corona) ở [Việt Nam](Vietnam)
+- nay có [bệnh nhân](patient) [khỏi](beResolved) ở [Việt Nam](Vietnam)
+- [bệnh nhân](patient) [khỏi](beResolved) [covid-19](corona) [Việt Nam](Vietnam)
+- thông tin các [bệnh nhân](patient) [khỏi](beResolved) [covid-19](corona) ở [Việt Nam](Vietnam)
+- cập nhật tình hình [bệnh nhân](patient) [khỏi](beResolved) [covid-19](corona) ở [Việt Nam](Vietnam)
+- có bao nhiêu [bệnh nhân](patient) [khỏi](beResolved) [covid-19](corona) ở [Việt Nam](Vietnam) 
+- [Việt Nam](Vietnam) có số [bệnh nhân](patient) [khỏi](beResolved) [covid-19](corona)
+- info các [bệnh nhân](patient) [khỏi](beResolved) [covid-19](corona) ở [Việt Nam](Vietnam)
+- thông tin những [bệnh nhân](patient) [khỏi](beResolved) [covid-19](corona) ở [Việt Nam](Vietnam)
+- số liệu [bệnh nhân](patient) [khỏi](beResolved) [covid-19](corona) ở [Việt Nam](Vietnam) 
+- [Việt Nam](Vietnam) có bao nhiêu [bệnh nhân](patient) [khỏi](beResolved) [covid-19](corona)
+- [bệnh nhân](patient) [khỏi](beResolved) [covid-19](corona) ở [Việt Nam](Vietnam)
+- hiện có bao nhiêu [bệnh nhân](patient) [khỏi](beResolved) [covid-19](corona)
+- [Việt Nam](Vietnam) có nhiều [bệnh nhân](patient) [khỏi](beResolved) [covid-19](corona)
+- [bệnh nhân](patient) [khỏi](beResolved) [covid-19](corona) ở Việt Nam
+- nhiều [bệnh nhân](patient) [khỏi](beResolved) ở [Việt Nam](Vietnam)
+- có bao nhiêu [bệnh nhân](patient) [khỏi](beResolved) [covid-19](corona) ở [Việt Nam](Vietnam)
+- ở [Việt Nam](Vietnam) [khỏi](beResolved) bao nhiêu [bệnh nhân](patient)
+- bao nhiêu [bệnh nhân](patient) [khỏi](beResolved) ở [Việt Nam](Vietnam) 
+- [Việt Nam](Vietnam) bao nhiêu [bệnh nhân](patient)[bệnh nhân](patient) [khỏi](beResolved) [covid-19](corona)
+- [bệnh nhân](patient) [khỏi](beResolved) [covid-19](corona) tại [Việt Nam](Vietnam)
+- bao nhiêu [bệnh nhân](patient) [khỏi](beResolved) ở [Việt Nam](Vietnam)
+- [Việt Nam](Vietnam) có bao nhiêu [bệnh nhân](patient) [khỏi](beResolved) [covid-19](corona)
+
+
+## synonym:corona
+- coronavirus
+- covid
+- covid-19
+- covid19
+- covid 19
+- virus
+- đại dịch 2020
+- dịch covid-19
+- cơn đại dịch
+- bệnh
+- dịch bệnh
+- cơn khủng hoảng
+- bệnh
+- căn bệnh covid 19
+- cơn đại dịch 2020
+- corona 2020
+- corona 2019
+- cô vít
+- ko vít
+- kô vít
+- bệnh corona
+- bệnh covid-19
+- covi
+- 2019-ncov
+- ncov
+- ncov-2019
+
+## synonym:Vietnam
+- viet nam
+- Việt Nam
+- vn
+- vietnamese
+- vjet nam
+- nước ta
+- nước mình
+- quốc gia mình
+- đất nước ta
+- quê hương ta
+- Viêt Nam
+- Vietnamm
+- VIet Namm
+- Việ Nam
+- viẹt nam
+- vietj nam
+- người Việt Nam
+- các ae Việt Nam
+
+## synonym:em
+- chị
+- cô
+- ông
+- ô
+- anh
+- a
+- cu
+- thằng
+- cậu
+- pạn
+- bạn
+- mày
+- con đĩ
+- con
+- đứa
+- mày
+- chú
+- tư vấn viên
+- supporter
+- hỗ trợ viên
+- thàng
+- bố
+- thanh niên
+
+## synonym:user_voca
+- mình
+- tớ
+- tôi
+- tao
+- bố mày
+- e
+- em
+- t
+
+## synonym:die
+- bị chết
+- oẳng
+- nghẻo
+- tạch
+- chết
+- dead
+- ra đi
+- toang
+- rip
+- đứt
+- rụng
+- xuống mồ
+- trôn cất
+- nằm dưới quan tài
+- gặp thiên thần
+- lên thiên đàng
+- tử vong
+- thiệt mạng
+- ngủ mãi không dậy
+- tèo
+
+## synonym: virtualAssistance
+- trợ lý ảo
+- trợ lí ảo
+- bot
+- robot
+- ai
+- người máy
+- người không thật
+- chatbot
+- tư vấn viên
+- hỗ trợ viên
+- supporter
+- em
+- bạn
+- con trai
+- con gái
+- trai
+- gái
+
+## synonym: patient
+- bệnh nhân
+- cu cậu
+- thằng
+- chú
+- đứa
+- người
+- bạn
+- thanh niên
+- con bệnh
+- người bệnh
+- people
+- em
+- ca nhiễm
+- ca
+- trường hợp
+
+## synonym:getVirus
+- mắc
+- dính
+- bị bệnh
+- nhiễm
+- bị lây
+- bị nhiễm
+- lan truyền
+- bị
+
+## synonym:beResolved
+- được chữa khỏi
+- khỏi
+- hết bệnh
+- chữa khỏi
+- thoát khỏi virus
+- hết
+- không bị
+- khỏe mạnh trở lại từ
+- trở lại từ
+- thoát khỏi
+- đã được chữa khỏi
+- đã khỏi

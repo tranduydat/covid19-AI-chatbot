@@ -1,0 +1,84 @@
+{
+  "action_fingerprints": {
+    "action_listen": {
+      "slots": []
+    },
+    "utter_sadface": {
+      "slots": []
+    },
+    "action_ask_death_confirmed_cases_vietnam": {
+      "slots": []
+    },
+    "utter_greet": {
+      "slots": []
+    },
+    "action_ask_recovered_cases_vietnam": {
+      "slots": []
+    },
+    "action_ask_all_cases_vietnam": {
+      "slots": []
+    },
+    "action_ask_all": {
+      "slots": []
+    },
+    "utter_youarewelcome": {
+      "slots": []
+    },
+    "utter_bye": {
+      "slots": []
+    },
+    "action_show_advices": {
+      "slots": []
+    },
+    "utter_sympathize": {
+      "slots": []
+    },
+    "action_ask_confirmed_recovered_cases_vietnam": {
+      "slots": []
+    },
+    "action_ask_recovered_cases_globally": {
+      "slots": []
+    },
+    "action_ask_death_recovered_cases_globally": {
+      "slots": []
+    },
+    "action_ask_death_cases_globally": {
+      "slots": []
+    },
+    "action_ask_death_recovered_cases_vietnam": {
+      "slots": []
+    },
+    "action_ask_confirmed_cases_vietnam": {
+      "slots": []
+    },
+    "action_ask_confirmed_cases_globally": {
+      "slots": []
+    },
+    "action_ask_death_confirmed_cases_globally": {
+      "slots": []
+    },
+    "utter_challenge": {
+      "slots": []
+    },
+    "action_ask_confirmed_recovered_cases_globally": {
+      "slots": []
+    },
+    "action_ask_death_cases_vietnam": {
+      "slots": []
+    }
+  },
+  "python": "3.7.9",
+  "max_histories": [
+    1,
+    null
+  ],
+  "ensemble_name": "rasa.core.policies.ensemble.SimplePolicyEnsemble",
+  "policy_names": [
+    "rasa.core.policies.memoization.MemoizationPolicy",
+    "rasa.core.policies.mapping_policy.MappingPolicy"
+  ],
+  "trained_at": "20201010-185213",
+  "rasa": "1.10.12",
+  "tensorflow": "2.1.1",
+  "sklearn": "0.22.2.post1"
+}

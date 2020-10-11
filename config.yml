@@ -8,6 +8,7 @@ pipeline:
   - name: "EntitySynonymMapper"
   - name: "CountVectorsFeaturizer"
   - name: "DIETClassifier"
+    # epochs: 390
 
 # Configuration for Rasa Core.
 # https://rasa.com/docs/rasa/core/policies/

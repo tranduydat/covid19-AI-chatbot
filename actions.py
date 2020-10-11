@@ -307,7 +307,7 @@ class ActionAskConfirmedVietnam(Action):
 			tracker: Tracker,
 			domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
 
-		message = "Tính đến ngày " + getCurrentDate('confirmed') + ", Việt Nam ghi nhận " + getConfirmed(
+		message = "Tính đến ngày " + getCurrentDate('confirmed') + ", Việt Nam đã ghi nhận tổng " + getConfirmed(
 			'vietnam') + " trường hợp dương tính Covid-19"
 
 		dispatcher.utter_message(text=message)
@@ -324,7 +324,7 @@ class ActionAskRecoveredVietnam(Action):
 			tracker: Tracker,
 			domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
 
-		message = "Tính đến ngày " + getCurrentDate('recovered') + ", đã có " + getRecovered(
+		message = "Cập nhật tình hình ngày " + getCurrentDate('recovered') + ", Việt Nam đã có " + getRecovered(
 			'vietnam') + " trên tổng số " + getConfirmed('vietnam') + " bệnh nhân tại Việt Nam đã được chữa khỏi Covid-19\n"
 
 		dispatcher.utter_message(text=message)

@@ -1,0 +1,189 @@
+  utter_angiang:
+  - text: Hiện tại An Giang chưa ghi nhận bất cứ trường hợp nào dương tính với Covid-19 😊
+  - text: An Giang là 1 trong 20 tỉnh thành tại Việt Nam chưa ghi nhận bất kì ca nhiễm nào ❤️
+  utter_baria-vungtau:
+  - text: Cập nhật thông tin đến ngày 11/10/2020, tại Bà Rịa - Vũng Tàu có:\n🤒 47 ca nhiễm\n❤️ 3 bệnh nhân đang được điều trị\n💪 44 người đã bình phục\n✝️ 0 ca tử vong do Covid-19\nNguồn: Bộ Y Tế
+  - text: Theo thống kê tại Bà Rịa - Vũng Tàu, tính đến ngày 11/10/2020:\nĐã có tất cả 47 người dương tính với virus Corona\n3 bệnh nhân đang được điều trị\n44 ca âm tính\nVà 0 ca tử vong
+  utter_bacgiang:
+  - text: Cập nhật thông tin đến ngày 11/10/2020, tại Bắc Giang có:\n🤒 9 ca nhiễm\n❤️ 0 bệnh nhân đang được điều trị\n💪 9 người đã bình phục\n✝️ 0 ca tử vong do Covid-19\nNguồn: Bộ Y Tế
+  - text: Theo thống kê tại Bắc Giang, tính đến ngày 11/10/2020:\nĐã có tất cả 9 người dương tính với virus Corona\n0 bệnh nhân đang được điều trị\n9 ca âm tính\nVà 0 ca tử vong
+  utter_backan:
+  - text: Hiện tại Bắc Kạn chưa ghi nhận bất cứ trường hợp nào dương tính với Covid-19 😊
+  - text: Bắc Kạn là 1 trong 20 tỉnh thành tại Việt Nam chưa ghi nhận bất kì ca nhiễm nào ❤️
+  utter_baclieu:
+  - text: Cập nhật thông tin đến ngày 11/10/2020, tại Bạc Liêu có:\n🤒 46 ca nhiễm\n❤️ 19 bệnh nhân đang được điều trị\n💪 27 người đã bình phục\n✝️ 0 ca tử vong do Covid-19\nNguồn: Bộ Y Tế
+  - text: Theo thống kê tại Bạc Liêu, tính đến ngày 11/10/2020:\nĐã có tất cả 46 người dương tính với virus Corona\n19 bệnh nhân đang được điều trị\n27 ca âm tính\nVà 0 ca tử vong
+  utter_bacninh:
+  - text: Cập nhật thông tin đến ngày 11/10/2020, tại Bắc Ninh có:\n🤒 1 ca nhiễm\n❤️ 0 bệnh nhân đang được điều trị\n💪 1 người đã bình phục\n✝️ 0 ca tử vong do Covid-19\nNguồn: Bộ Y Tế
+  - text: Theo thống kê tại Bắc Ninh, tính đến ngày 11/10/2020:\nĐã có tất cả 1 người dương tính với virus Corona\n0 bệnh nhân đang được điều trị\n1 ca âm tính\nVà 0 ca tử vong
+  utter_bentre:
+  - text: Cập nhật thông tin đến ngày 11/10/2020, tại Bến Tre có:\n🤒 1 ca nhiễm\n❤️ 0 bệnh nhân đang được điều trị\n💪 1 người đã bình phục\n✝️ 0 ca tử vong do Covid-19\nNguồn: Bộ Y Tế
+  - text: Theo thống kê tại Bến Tre, tính đến ngày 11/10/2020:\nĐã có tất cả 1 người dương tính với virus Corona\n0 bệnh nhân đang được điều trị\n1 ca âm tính\nVà 0 ca tử vong
+  utter_binhdinh:
+  - text: Hiện tại Bình Định chưa ghi nhận bất cứ trường hợp nào dương tính với Covid-19 😊
+  - text: Bình Định là 1 trong 20 tỉnh thành tại Việt Nam chưa ghi nhận bất kì ca nhiễm nào ❤️
+  utter_binhduong:
+  - text: Cập nhật thông tin đến ngày 11/10/2020, tại Bình Dương có:\n🤒 6 ca nhiễm\n❤️ 5 bệnh nhân đang được điều trị\n💪 1 người đã bình phục\n✝️ 0 ca tử vong do Covid-19\nNguồn: Bộ Y Tế
+  - text: Theo thống kê tại Bình Dương, tính đến ngày 11/10/2020:\nĐã có tất cả 6 người dương tính với virus Corona\n5 bệnh nhân đang được điều trị\n1 ca âm tính\nVà 0 ca tử vong
+  utter_binhphuoc:
+  - text: Hiện tại Bình Phước chưa ghi nhận bất cứ trường hợp nào dương tính với Covid-19 😊
+  - text: Bình Phước là 1 trong 20 tỉnh thành tại Việt Nam chưa ghi nhận bất kì ca nhiễm nào ❤️
+  utter_binhthuan:
+  - text: Cập nhật thông tin đến ngày 11/10/2020, tại Bình Thuận có:\n🤒 9 ca nhiễm\n❤️ 0 bệnh nhân đang được điều trị\n💪 9 người đã bình phục\n✝️ 0 ca tử vong do Covid-19\nNguồn: Bộ Y Tế
+  - text: Theo thống kê tại Bình Thuận, tính đến ngày 11/10/2020:\nĐã có tất cả 9 người dương tính với virus Corona\n0 bệnh nhân đang được điều trị\n9 ca âm tính\nVà 0 ca tử vong
+  utter_camau:
+  - text: Cập nhật thông tin đến ngày 11/10/2020, tại Cà Mau có:\n🤒 1 ca nhiễm\n❤️ 0 bệnh nhân đang được điều trị\n💪 1 người đã bình phục\n✝️ 0 ca tử vong do Covid-19\nNguồn: Bộ Y Tế
+  - text: Theo thống kê tại Cà Mau, tính đến ngày 11/10/2020:\nĐã có tất cả 1 người dương tính với virus Corona\n0 bệnh nhân đang được điều trị\n1 ca âm tính\nVà 0 ca tử vong
+  utter_cantho:
+  - text: Cập nhật thông tin đến ngày 11/10/2020, tại Cần Thơ có:\n🤒 7 ca nhiễm\n❤️ 2 bệnh nhân đang được điều trị\n💪 5 người đã bình phục\n✝️ 0 ca tử vong do Covid-19\nNguồn: Bộ Y Tế
+  - text: Theo thống kê tại Cần Thơ, tính đến ngày 11/10/2020:\nĐã có tất cả 7 người dương tính với virus Corona\n2 bệnh nhân đang được điều trị\n5 ca âm tính\nVà 0 ca tử vong
+  utter_caobang:
+  - text: Hiện tại Cao Bằng chưa ghi nhận bất cứ trường hợp nào dương tính với Covid-19 😊
+  - text: Cao Bằng là 1 trong 20 tỉnh thành tại Việt Nam chưa ghi nhận bất kì ca nhiễm nào ❤️
+  utter_danang:
+  - text: Cập nhật thông tin đến ngày 11/10/2020, tại Đà Nẵng có:\n🤒 395 ca nhiễm\n❤️ 0 bệnh nhân đang được điều trị\n💪 361 người đã bình phục\n✝️ 31 ca tử vong do Covid-19\nNguồn: Bộ Y Tế
+  - text: Theo thống kê tại Đà Nẵng, tính đến ngày 11/10/2020:\nĐã có tất cả 395 người dương tính với virus Corona\n0 bệnh nhân đang được điều trị\n361 ca âm tính\nVà 31 ca tử vong
+  utter_daklak:
+  - text: Cập nhật thông tin đến ngày 11/10/2020, tại Đắk Lắk có:\n🤒 3 ca nhiễm\n❤️ 0 bệnh nhân đang được điều trị\n💪 3 người đã bình phục\n✝️ 0 ca tử vong do Covid-19\nNguồn: Bộ Y Tế
+  - text: Theo thống kê tại Đắk Lắk, tính đến ngày 11/10/2020:\nĐã có tất cả 3 người dương tính với virus Corona\n0 bệnh nhân đang được điều trị\n3 ca âm tính\nVà 0 ca tử vong
+  utter_daknong:
+  - text: Hiện tại Đắk Nông chưa ghi nhận bất cứ trường hợp nào dương tính với Covid-19 😊
+  - text: Đắk Nông là 1 trong 20 tỉnh thành tại Việt Nam chưa ghi nhận bất kì ca nhiễm nào ❤️
+  utter_dienbien:
+  - text: Hiện tại Điện Biên chưa ghi nhận bất cứ trường hợp nào dương tính với Covid-19 😊
+  - text: Điện Biên là 1 trong 20 tỉnh thành tại Việt Nam chưa ghi nhận bất kì ca nhiễm nào ❤️
+  utter_dongnai:
+  - text: Cập nhật thông tin đến ngày 11/10/2020, tại Đồng Nai có:\n🤒 3 ca nhiễm\n❤️ 0 bệnh nhân đang được điều trị\n💪 3 người đã bình phục\n✝️ 0 ca tử vong do Covid-19\nNguồn: Bộ Y Tế
+  - text: Theo thống kê tại Đồng Nai, tính đến ngày 11/10/2020:\nĐã có tất cả 3 người dương tính với virus Corona\n0 bệnh nhân đang được điều trị\n3 ca âm tính\nVà 0 ca tử vong
+  utter_dongthap:
+  - text: Cập nhật thông tin đến ngày 11/10/2020, tại Đồng Tháp có:\n🤒 11 ca nhiễm\n❤️ 5 bệnh nhân đang được điều trị\n💪 6 người đã bình phục\n✝️ 0 ca tử vong do Covid-19\nNguồn: Bộ Y Tế
+  - text: Theo thống kê tại Đồng Tháp, tính đến ngày 11/10/2020:\nĐã có tất cả 11 người dương tính với virus Corona\n5 bệnh nhân đang được điều trị\n6 ca âm tính\nVà 0 ca tử vong
+  utter_gialai:
+  - text: Hiện tại Gia Lai chưa ghi nhận bất cứ trường hợp nào dương tính với Covid-19 😊
+  - text: Gia Lai là 1 trong 20 tỉnh thành tại Việt Nam chưa ghi nhận bất kì ca nhiễm nào ❤️
+  utter_hagiang:
+  - text: Cập nhật thông tin đến ngày 11/10/2020, tại Hà Giang có:\n🤒 1 ca nhiễm\n❤️ 0 bệnh nhân đang được điều trị\n💪 1 người đã bình phục\n✝️ 0 ca tử vong do Covid-19\nNguồn: Bộ Y Tế
+  - text: Theo thống kê tại Hà Giang, tính đến ngày 11/10/2020:\nĐã có tất cả 1 người dương tính với virus Corona\n0 bệnh nhân đang được điều trị\n1 ca âm tính\nVà 0 ca tử vong
+  utter_hanam:
+  - text: Cập nhật thông tin đến ngày 11/10/2020, tại Hà Nam có:\n🤒 5 ca nhiễm\n❤️ 0 bệnh nhân đang được điều trị\n💪 5 người đã bình phục\n✝️ 0 ca tử vong do Covid-19\nNguồn: Bộ Y Tế
+  - text: Theo thống kê tại Hà Nam, tính đến ngày 11/10/2020:\nĐã có tất cả 5 người dương tính với virus Corona\n0 bệnh nhân đang được điều trị\n5 ca âm tính\nVà 0 ca tử vong
+  utter_hanoi:
+  - text: Cập nhật thông tin đến ngày 11/10/2020, tại Hà Nội có:\n🤒 165 ca nhiễm\n❤️ 2 bệnh nhân đang được điều trị\n💪 163 người đã bình phục\n✝️ 0 ca tử vong do Covid-19\nNguồn: Bộ Y Tế
+  - text: Theo thống kê tại Hà Nội, tính đến ngày 11/10/2020:\nĐã có tất cả 165 người dương tính với virus Corona\n2 bệnh nhân đang được điều trị\n163 ca âm tính\nVà 0 ca tử vong
+  utter_hatinh:
+  - text: Cập nhật thông tin đến ngày 11/10/2020, tại Hà Tĩnh có:\n🤒 4 ca nhiễm\n❤️ 0 bệnh nhân đang được điều trị\n💪 4 người đã bình phục\n✝️ 0 ca tử vong do Covid-19\nNguồn: Bộ Y Tế
+  - text: Theo thống kê tại Hà Tĩnh, tính đến ngày 11/10/2020:\nĐã có tất cả 4 người dương tính với virus Corona\n0 bệnh nhân đang được điều trị\n4 ca âm tính\nVà 0 ca tử vong
+  utter_haiduong:
+  - text: Cập nhật thông tin đến ngày 11/10/2020, tại Hải Dương có:\n🤒 27 ca nhiễm\n❤️ 1 bệnh nhân đang được điều trị\n💪 26 người đã bình phục\n✝️ 0 ca tử vong do Covid-19\nNguồn: Bộ Y Tế
+  - text: Theo thống kê tại Hải Dương, tính đến ngày 11/10/2020:\nĐã có tất cả 27 người dương tính với virus Corona\n1 bệnh nhân đang được điều trị\n26 ca âm tính\nVà 0 ca tử vong
+  utter_haiphong:
+  - text: Cập nhật thông tin đến ngày 11/10/2020, tại Hải Phòng có:\n🤒 3 ca nhiễm\n❤️ 0 bệnh nhân đang được điều trị\n💪 3 người đã bình phục\n✝️ 0 ca tử vong do Covid-19\nNguồn: Bộ Y Tế
+  - text: Theo thống kê tại Hải Phòng, tính đến ngày 11/10/2020:\nĐã có tất cả 3 người dương tính với virus Corona\n0 bệnh nhân đang được điều trị\n3 ca âm tính\nVà 0 ca tử vong
+  utter_haugiang:
+  - text: Hiện tại Hậu Giang chưa ghi nhận bất cứ trường hợp nào dương tính với Covid-19 😊
+  - text: Hậu Giang là 1 trong 20 tỉnh thành tại Việt Nam chưa ghi nhận bất kì ca nhiễm nào ❤️
+  utter_hoabinh:
+  - text: Cập nhật thông tin đến ngày 11/10/2020, tại Hòa Bình có:\n🤒 6 ca nhiễm\n❤️ 0 bệnh nhân đang được điều trị\n💪 6 người đã bình phục\n✝️ 0 ca tử vong do Covid-19\nNguồn: Bộ Y Tế
+  - text: Theo thống kê tại Hòa Bình, tính đến ngày 11/10/2020:\nĐã có tất cả 6 người dương tính với virus Corona\n0 bệnh nhân đang được điều trị\n6 ca âm tính\nVà 0 ca tử vong
+  utter_hungyen:
+  - text: Cập nhật thông tin đến ngày 11/10/2020, tại Hưng Yên có:\n🤒 5 ca nhiễm\n❤️ 1 bệnh nhân đang được điều trị\n💪 4 người đã bình phục\n✝️ 0 ca tử vong do Covid-19\nNguồn: Bộ Y Tế
+  - text: Theo thống kê tại Hưng Yên, tính đến ngày 11/10/2020:\nĐã có tất cả 5 người dương tính với virus Corona\n1 bệnh nhân đang được điều trị\n4 ca âm tính\nVà 0 ca tử vong
+  utter_khanhhoa:
+  - text: Cập nhật thông tin đến ngày 11/10/2020, tại Khánh Hòa có:\n🤒 18 ca nhiễm\n❤️ 3 bệnh nhân đang được điều trị\n💪 15 người đã bình phục\n✝️ 0 ca tử vong do Covid-19\nNguồn: Bộ Y Tế
+  - text: Theo thống kê tại Khánh Hòa, tính đến ngày 11/10/2020:\nĐã có tất cả 18 người dương tính với virus Corona\n3 bệnh nhân đang được điều trị\n15 ca âm tính\nVà 0 ca tử vong
+  utter_kiengiang:
+  - text: Cập nhật thông tin đến ngày 11/10/2020, tại Kiên Giang có:\n🤒 1 ca nhiễm\n❤️ 0 bệnh nhân đang được điều trị\n💪 1 người đã bình phục\n✝️ 0 ca tử vong do Covid-19\nNguồn: Bộ Y Tế
+  - text: Theo thống kê tại Kiên Giang, tính đến ngày 11/10/2020:\nĐã có tất cả 1 người dương tính với virus Corona\n0 bệnh nhân đang được điều trị\n1 ca âm tính\nVà 0 ca tử vong
+  utter_kontum:
+  - text: Hiện tại Kon Tum chưa ghi nhận bất cứ trường hợp nào dương tính với Covid-19 😊
+  - text: Kon Tum là 1 trong 20 tỉnh thành tại Việt Nam chưa ghi nhận bất kì ca nhiễm nào ❤️
+  utter_laichau:
+  - text: Cập nhật thông tin đến ngày 11/10/2020, tại Lai Châu có:\n🤒 1 ca nhiễm\n❤️ 0 bệnh nhân đang được điều trị\n💪 1 người đã bình phục\n✝️ 0 ca tử vong do Covid-19\nNguồn: Bộ Y Tế
+  - text: Theo thống kê tại Lai Châu, tính đến ngày 11/10/2020:\nĐã có tất cả 1 người dương tính với virus Corona\n0 bệnh nhân đang được điều trị\n1 ca âm tính\nVà 0 ca tử vong
+  utter_lamdong:
+  - text: Hiện tại Lâm Đồng chưa ghi nhận bất cứ trường hợp nào dương tính với Covid-19 😊
+  - text: Lâm Đồng là 1 trong 20 tỉnh thành tại Việt Nam chưa ghi nhận bất kì ca nhiễm nào ❤️
+  utter_langson:
+  - text: Cập nhật thông tin đến ngày 11/10/2020, tại Lạng Sơn có:\n🤒 4 ca nhiễm\n❤️ 0 bệnh nhân đang được điều trị\n💪 4 người đã bình phục\n✝️ 0 ca tử vong do Covid-19\nNguồn: Bộ Y Tế
+  - text: Theo thống kê tại Lạng Sơn, tính đến ngày 11/10/2020:\nĐã có tất cả 4 người dương tính với virus Corona\n0 bệnh nhân đang được điều trị\n4 ca âm tính\nVà 0 ca tử vong
+  utter_laocai:
+  - text: Cập nhật thông tin đến ngày 11/10/2020, tại Lào Cai có:\n🤒 2 ca nhiễm\n❤️ 0 bệnh nhân đang được điều trị\n💪 2 người đã bình phục\n✝️ 0 ca tử vong do Covid-19\nNguồn: Bộ Y Tế
+  - text: Theo thống kê tại Lào Cai, tính đến ngày 11/10/2020:\nĐã có tất cả 2 người dương tính với virus Corona\n0 bệnh nhân đang được điều trị\n2 ca âm tính\nVà 0 ca tử vong
+  utter_longan:
+  - text: Hiện tại Long An chưa ghi nhận bất cứ trường hợp nào dương tính với Covid-19 😊
+  - text: Long An là 1 trong 20 tỉnh thành tại Việt Nam chưa ghi nhận bất kì ca nhiễm nào ❤️
+  utter_namdinh:
+  - text: Cập nhật thông tin đến ngày 11/10/2020, tại Nam Định có:\n🤒 8 ca nhiễm\n❤️ 1 bệnh nhân đang được điều trị\n💪 7 người đã bình phục\n✝️ 0 ca tử vong do Covid-19\nNguồn: Bộ Y Tế
+  - text: Theo thống kê tại Nam Định, tính đến ngày 11/10/2020:\nĐã có tất cả 8 người dương tính với virus Corona\n1 bệnh nhân đang được điều trị\n7 ca âm tính\nVà 0 ca tử vong
+  utter_nghean:
+  - text: Hiện tại Nghệ An chưa ghi nhận bất cứ trường hợp nào dương tính với Covid-19 😊
+  - text: Nghệ An là 1 trong 20 tỉnh thành tại Việt Nam chưa ghi nhận bất kì ca nhiễm nào ❤️
+  utter_ninhbinh:
+  - text: Cập nhật thông tin đến ngày 11/10/2020, tại Ninh Bình có:\n🤒 23 ca nhiễm\n❤️ 0 bệnh nhân đang được điều trị\n💪 23 người đã bình phục\n✝️ 0 ca tử vong do Covid-19\nNguồn: Bộ Y Tế
+  - text: Theo thống kê tại Ninh Bình, tính đến ngày 11/10/2020:\nĐã có tất cả 23 người dương tính với virus Corona\n0 bệnh nhân đang được điều trị\n23 ca âm tính\nVà 0 ca tử vong
+  utter_ninhthuan:
+  - text: Cập nhật thông tin đến ngày 11/10/2020, tại Ninh Thuận có:\n🤒 2 ca nhiễm\n❤️ 0 bệnh nhân đang được điều trị\n💪 2 người đã bình phục\n✝️ 0 ca tử vong do Covid-19\nNguồn: Bộ Y Tế
+  - text: Theo thống kê tại Ninh Thuận, tính đến ngày 11/10/2020:\nĐã có tất cả 2 người dương tính với virus Corona\n0 bệnh nhân đang được điều trị\n2 ca âm tính\nVà 0 ca tử vong
+  utter_phutho:
+  - text: Cập nhật thông tin đến ngày 11/10/2020, tại Phú Thọ có:\n🤒 3 ca nhiễm\n❤️ 0 bệnh nhân đang được điều trị\n💪 3 người đã bình phục\n✝️ 0 ca tử vong do Covid-19\nNguồn: Bộ Y Tế
+  - text: Theo thống kê tại Phú Thọ, tính đến ngày 11/10/2020:\nĐã có tất cả 3 người dương tính với virus Corona\n0 bệnh nhân đang được điều trị\n3 ca âm tính\nVà 0 ca tử vong
+  utter_phuyen:
+  - text: Cập nhật thông tin đến ngày 11/10/2020, tại Phú Yên có:\n🤒 3 ca nhiễm\n❤️ 0 bệnh nhân đang được điều trị\n💪 3 người đã bình phục\n✝️ 0 ca tử vong do Covid-19\nNguồn: Bộ Y Tế
+  - text: Theo thống kê tại Phú Yên, tính đến ngày 11/10/2020:\nĐã có tất cả 3 người dương tính với virus Corona\n0 bệnh nhân đang được điều trị\n3 ca âm tính\nVà 0 ca tử vong
+  utter_quangbinh:
+  - text: Hiện tại Quảng Bình chưa ghi nhận bất cứ trường hợp nào dương tính với Covid-19 😊
+  - text: Quảng Bình là 1 trong 20 tỉnh thành tại Việt Nam chưa ghi nhận bất kì ca nhiễm nào ❤️
+  utter_quangnam:
+  - text: Cập nhật thông tin đến ngày 11/10/2020, tại Quảng Nam có:\n🤒 102 ca nhiễm\n❤️ 1 bệnh nhân đang được điều trị\n💪 98 người đã bình phục\n✝️ 3 ca tử vong do Covid-19\nNguồn: Bộ Y Tế
+  - text: Theo thống kê tại Quảng Nam, tính đến ngày 11/10/2020:\nĐã có tất cả 102 người dương tính với virus Corona\n1 bệnh nhân đang được điều trị\n98 ca âm tính\nVà 3 ca tử vong
+  utter_quangngai:
+  - text: Cập nhật thông tin đến ngày 11/10/2020, tại Quảng Ngãi có:\n🤒 6 ca nhiễm\n❤️ 0 bệnh nhân đang được điều trị\n💪 6 người đã bình phục\n✝️ 0 ca tử vong do Covid-19\nNguồn: Bộ Y Tế
+  - text: Theo thống kê tại Quảng Ngãi, tính đến ngày 11/10/2020:\nĐã có tất cả 6 người dương tính với virus Corona\n0 bệnh nhân đang được điều trị\n6 ca âm tính\nVà 0 ca tử vong
+  utter_quangninh:
+  - text: Cập nhật thông tin đến ngày 11/10/2020, tại Quảng Ninh có:\n🤒 11 ca nhiễm\n❤️ 0 bệnh nhân đang được điều trị\n💪 11 người đã bình phục\n✝️ 0 ca tử vong do Covid-19\nNguồn: Bộ Y Tế
+  - text: Theo thống kê tại Quảng Ninh, tính đến ngày 11/10/2020:\nĐã có tất cả 11 người dương tính với virus Corona\n0 bệnh nhân đang được điều trị\n11 ca âm tính\nVà 0 ca tử vong
+  utter_quangtri:
+  - text: Cập nhật thông tin đến ngày 11/10/2020, tại Quảng Trị có:\n🤒 7 ca nhiễm\n❤️ 0 bệnh nhân đang được điều trị\n💪 6 người đã bình phục\n✝️ 1 ca tử vong do Covid-19\nNguồn: Bộ Y Tế
+  - text: Theo thống kê tại Quảng Trị, tính đến ngày 11/10/2020:\nĐã có tất cả 7 người dương tính với virus Corona\n0 bệnh nhân đang được điều trị\n6 ca âm tính\nVà 1 ca tử vong
+  utter_soctrang:
+  - text: Hiện tại Sóc Trăng chưa ghi nhận bất cứ trường hợp nào dương tính với Covid-19 😊
+  - text: Sóc Trăng là 1 trong 20 tỉnh thành tại Việt Nam chưa ghi nhận bất kì ca nhiễm nào ❤️
+  utter_sonla:
+  - text: Hiện tại Sơn La chưa ghi nhận bất cứ trường hợp nào dương tính với Covid-19 😊
+  - text: Sơn La là 1 trong 20 tỉnh thành tại Việt Nam chưa ghi nhận bất kì ca nhiễm nào ❤️
+  utter_tayninh:
+  - text: Cập nhật thông tin đến ngày 11/10/2020, tại Tây Ninh có:\n🤒 7 ca nhiễm\n❤️ 0 bệnh nhân đang được điều trị\n💪 7 người đã bình phục\n✝️ 0 ca tử vong do Covid-19\nNguồn: Bộ Y Tế
+  - text: Theo thống kê tại Tây Ninh, tính đến ngày 11/10/2020:\nĐã có tất cả 7 người dương tính với virus Corona\n0 bệnh nhân đang được điều trị\n7 ca âm tính\nVà 0 ca tử vong
+  utter_thaibinh:
+  - text: Cập nhật thông tin đến ngày 11/10/2020, tại Thái Bình có:\n🤒 31 ca nhiễm\n❤️ 0 bệnh nhân đang được điều trị\n💪 31 người đã bình phục\n✝️ 0 ca tử vong do Covid-19\nNguồn: Bộ Y Tế
+  - text: Theo thống kê tại Thái Bình, tính đến ngày 11/10/2020:\nĐã có tất cả 31 người dương tính với virus Corona\n0 bệnh nhân đang được điều trị\n31 ca âm tính\nVà 0 ca tử vong
+  utter_thainguyen:
+  - text: Cập nhật thông tin đến ngày 11/10/2020, tại Thái Nguyên có:\n🤒 1 ca nhiễm\n❤️ 0 bệnh nhân đang được điều trị\n💪 1 người đã bình phục\n✝️ 0 ca tử vong do Covid-19\nNguồn: Bộ Y Tế
+  - text: Theo thống kê tại Thái Nguyên, tính đến ngày 11/10/2020:\nĐã có tất cả 1 người dương tính với virus Corona\n0 bệnh nhân đang được điều trị\n1 ca âm tính\nVà 0 ca tử vong
+  utter_thanhhoa:
+  - text: Cập nhật thông tin đến ngày 11/10/2020, tại Thanh Hóa có:\n🤒 18 ca nhiễm\n❤️ 0 bệnh nhân đang được điều trị\n💪 18 người đã bình phục\n✝️ 0 ca tử vong do Covid-19\nNguồn: Bộ Y Tế
+  - text: Theo thống kê tại Thanh Hóa, tính đến ngày 11/10/2020:\nĐã có tất cả 18 người dương tính với virus Corona\n0 bệnh nhân đang được điều trị\n18 ca âm tính\nVà 0 ca tử vong
+  utter_thuathienhue:
+  - text: Cập nhật thông tin đến ngày 11/10/2020, tại Thừa Thiên Huế có:\n🤒 2 ca nhiễm\n❤️ 0 bệnh nhân đang được điều trị\n💪 2 người đã bình phục\n✝️ 0 ca tử vong do Covid-19\nNguồn: Bộ Y Tế
+  - text: Theo thống kê tại Thừa Thiên Huế, tính đến ngày 11/10/2020:\nĐã có tất cả 2 người dương tính với virus Corona\n0 bệnh nhân đang được điều trị\n2 ca âm tính\nVà 0 ca tử vong
+  utter_tiengiang:
+  - text: Hiện tại Tiền Giang chưa ghi nhận bất cứ trường hợp nào dương tính với Covid-19 😊
+  - text: Tiền Giang là 1 trong 20 tỉnh thành tại Việt Nam chưa ghi nhận bất kì ca nhiễm nào ❤️
+  utter_thanhphohochiminh:
+  - text: Cập nhật thông tin đến ngày 11/10/2020, tại Thành phố Hồ Chí Minh có:\n🤒 78 ca nhiễm\n❤️ 1 bệnh nhân đang được điều trị\n💪 77 người đã bình phục\n✝️ 0 ca tử vong do Covid-19\nNguồn: Bộ Y Tế
+  - text: Theo thống kê tại Thành phố Hồ Chí Minh, tính đến ngày 11/10/2020:\nĐã có tất cả 78 người dương tính với virus Corona\n1 bệnh nhân đang được điều trị\n77 ca âm tính\nVà 0 ca tử vong
+  utter_travinh:
+  - text: Cập nhật thông tin đến ngày 11/10/2020, tại Trà Vinh có:\n🤒 5 ca nhiễm\n❤️ 0 bệnh nhân đang được điều trị\n💪 5 người đã bình phục\n✝️ 0 ca tử vong do Covid-19\nNguồn: Bộ Y Tế
+  - text: Theo thống kê tại Trà Vinh, tính đến ngày 11/10/2020:\nĐã có tất cả 5 người dương tính với virus Corona\n0 bệnh nhân đang được điều trị\n5 ca âm tính\nVà 0 ca tử vong
+  utter_tuyenquang:
+  - text: Hiện tại Tuyên Quang chưa ghi nhận bất cứ trường hợp nào dương tính với Covid-19 😊
+  - text: Tuyên Quang là 1 trong 20 tỉnh thành tại Việt Nam chưa ghi nhận bất kì ca nhiễm nào ❤️
+  utter_vinhlong:
+  - text: Hiện tại Vĩnh Long chưa ghi nhận bất cứ trường hợp nào dương tính với Covid-19 😊
+  - text: Vĩnh Long là 1 trong 20 tỉnh thành tại Việt Nam chưa ghi nhận bất kì ca nhiễm nào ❤️
+  utter_vinhphuc:
+  - text: Cập nhật thông tin đến ngày 11/10/2020, tại Vĩnh Phúc có:\n🤒 19 ca nhiễm\n❤️ 0 bệnh nhân đang được điều trị\n💪 19 người đã bình phục\n✝️ 0 ca tử vong do Covid-19\nNguồn: Bộ Y Tế
+  - text: Theo thống kê tại Vĩnh Phúc, tính đến ngày 11/10/2020:\nĐã có tất cả 19 người dương tính với virus Corona\n0 bệnh nhân đang được điều trị\n19 ca âm tính\nVà 0 ca tử vong
+  utter_yenbai:
+  - text: Hiện tại Yên Bái chưa ghi nhận bất cứ trường hợp nào dương tính với Covid-19 😊
+  - text: Yên Bái là 1 trong 20 tỉnh thành tại Việt Nam chưa ghi nhận bất kì ca nhiễm nào ❤️

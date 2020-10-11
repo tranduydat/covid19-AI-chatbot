@@ -1,0 +1,143 @@
+actions:
+- action_ask_death_cases_globally
+- action_ask_confirmed_cases_globally
+- action_ask_recovered_cases_globally
+- action_ask_death_confirmed_cases_globally
+- action_ask_death_recovered_cases_globally
+- action_ask_confirmed_recovered_cases_globally
+- action_ask_all
+- action_ask_death_cases_vietnam
+- action_ask_confirmed_cases_vietnam
+- action_ask_recovered_cases_vietnam
+- action_ask_death_confirmed_cases_vietnam
+- action_ask_death_recovered_cases_vietnam
+- action_ask_confirmed_recovered_cases_vietnam
+- action_ask_all_cases_vietnam
+- action_show_advices
+config:
+  store_entities_as_slots: true
+entities:
+- Covid-19
+- vietnam
+- bot
+- patient
+- die
+- resolved
+- getvirus
+- virtualassistant
+- myself
+- relative
+forms: []
+intents:
+- greet:
+    use_entities: true
+- advice:
+    use_entities: true
+- bye:
+    use_entities: true
+- thanks:
+    use_entities: true
+- affirm:
+    use_entities: true
+- deny:
+    use_entities: true
+- mood_unhappy:
+    use_entities: true
+- bot_challenge:
+    use_entities: true
+- None:
+    use_entities: true
+- smalltalk_human:
+    use_entities: true
+- ask_death:
+    use_entities: true
+- ask_confirm:
+    use_entities: true
+- ask_resolve:
+    use_entities: true
+- ask_all:
+    use_entities: true
+- ask_death_and_ask_confirm:
+    use_entities: true
+- ask_death_and_ask_resolve:
+    use_entities: true
+- ask_resolve_and_ask_confirm:
+    use_entities: true
+- ask_death_in_vietnam:
+    use_entities: true
+- ask_confirmed_in_vietnam:
+    use_entities: true
+- ask_resolve_vietnam:
+    use_entities: true
+- ask_death_and_confirmed_in_vietnam:
+    use_entities: true
+- ask_death_and_resolve_in_vietnam:
+    use_entities: true
+- ask_confirmed_and_resolve_in_vietnam:
+    use_entities: true
+- ask_all_vietnam:
+    use_entities: true
+responses:
+  utter_Intro:
+  - text: 🧚‍ Mình là trợ lý ảo giúp bạn tra cứu và cập nhật tình hình thông tin về
+      dịch bệnh Covid-19\nPhiên bản hiện tại v1.0\nCác tính năng chính\n - Cập nhật
+      số liệu thông tin về số người nhiễm, tử vong do virus Corona và số người bình
+      phục trên toàn cầu.
+  utter_None:
+  - text: Trúc xinh trúc mọc đầu đình\nEm xinh em đứng với mình càng xinh
+      👧 ✨✨✨
+  - text: nâu 🙄
+  - text: ✨✨✨ bùm, biến mất rồi nè
+  - text: Cần lao vi tiên thủ\nNăng cán dĩ đắc thực\nVô vi thực bánh rởm\nThực gạo
+      thối thế cho nhanh!
+  - text: 🙄 bạn hỏi câu khác đi đc ko
+  - text: đừng có mà đánh trống lảng 🤷‍♀️
+  - text: 🤷‍♀️
+  utter_bye:
+  - text: bye bạn nha 😄
+  - text: chúc bạn một ngày làm việc hiệu quả 😘
+  - text: chào bạn nha 👋
+  utter_challenge:
+  - text: 👩 Em là trợ lý ảo Covid-19, Thuộc một phần trong dự án của FPTU Lab Hà Nội
+      tham gia cuộc thi Resfes ✨\nNhiệm vụ chính của em là cập nhật số liệu về tình
+      hình dịch bệnh Covid-19
+  - text: Mọi người có thể gọi em là Linh 👩, trợ lý ảo giúp cập nhật thông tin tình
+      hình dịch bệnh Covid-19 trên toàn cầu 🌐\nEm rất vui vì là một phần trong dự
+      án của FPTU Lab Hà Nội tham gia cuộc thi Resfes hôm nay ❤️
+  utter_cheer:
+  - text: 😊
+  - text: ✨
+  - text: ❤️
+  - text: 🍻
+  utter_greet:
+  - text: Chào bạn!, mình là Linh 👩 hỗ trợ cập nhật thông tin, số liệu về đại dịch
+      Covid-19.\nMình có thể giúp gì được bạn nhỉ? 🤔
+  - text: Hi bạn 😃\nLinh 👩 có thể giúp gì được cho bạn nào?
+  - text: Chào bạn, Linh 👩 có thể giúp gì được cho bạn đây?
+  - text: Có rất nhiều thông tin mới về dịch bệnh trong ngày hôm nay! Bạn muốn tra
+      cứu gì nào? 🤔
+  - text: Hiện tại cơ sở dữ liệu cập nhật về dịch bệnh đã được cập nhật mới nhất.
+      Bạn muốn tra cứu gì nào? 🤔
+  utter_missing:
+  - text: Tính năng đang được xây dựng!
+  utter_sadface:
+  - text: 😢
+  utter_said_advices:
+  - text: Linh xin gợi ý một số tip giúp bảo vệ bản thân khỏi virus Corona
+  - text: Em xin gợi ý một số tip giúp bảo vệ bản thân trong mùa dịch ạ!
+  utter_sympathize:
+  - text: rồi mọi thứ cũng sẽ ổn thôi ☺️
+  - text: cố gắng lên bạn ơi 💪 😉
+  - text: hãy thật bình tĩnh vì rồi mọi chuyện cũng sẽ qua 😌
+  - text: tặng cho cái 🍫 nè! mỗi người một nửa nhé! moăm moăm moăm...
+  - text: tặng cho cái 2 cái 🍬🍬 nè! mỗi người một nửa nhé! moăm moăm moăm...
+  utter_youarewelcome:
+  - text: dạ không có gì đâu ạ 😊 Rất vui được hỗ trợ bạn
+  - text: dạ không có gì đâu ạ 😊
+  - text: 😙 dạ không có gì đâu ạ, đó là nhiệm vụ của em mà
+  - text: 😙 dạ không có gì ạ!
+  - text: dạ không có gì ạ 😉
+session_config:
+  carry_over_slots_to_new_session: true
+  session_expiration_time: 120
+slots: {}
